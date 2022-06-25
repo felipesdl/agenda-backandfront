@@ -15,5 +15,7 @@ A agenda só é acessada após o login do usuário, também é possível criar e
 
 Os campos do cadastro são validados e caso estejam dentro dos paramêtros o contato é salvo e aparece na página inicial.
 
+Foi usado Webpacks, Node, Express, MongoDB, HTML, CSS, Javascript.
+
 
 O projeto foi desenvolvido com ajuda das aulas da Udemy tendo algumas alterações minhas.
